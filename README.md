@@ -2,4 +2,4 @@
 
 Press Alt+A to expand or collapse a Gmail conversation thread.
 
-To change the keyboard shortcut click "Keyboard shortcuts" on the [extensions page](chrome://extensions/).
+To change the keyboard shortcut click "Keyboard shortcuts" on the extensions page (chrome://extensions/).
